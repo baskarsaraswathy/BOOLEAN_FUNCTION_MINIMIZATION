@@ -67,6 +67,7 @@ Developed by: RegisterNumber:*/
 ![Screenshot 2024-03-24 204436](https://github.com/baskarsaraswathy/BOOLEAN_FUNCTION_MINIMIZATION/assets/144871005/dee09fd9-6b44-40ef-afbf-d6ab2e627d53)
 
 **Truth Table**
+
 ![image](https://github.com/baskarsaraswathy/BOOLEAN_FUNCTION_MINIMIZATION/assets/144871005/96ebeb42-3093-489e-b6ab-688e9a11d038)
 
  
