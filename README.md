@@ -1,5 +1,6 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
-
+# Name : BASKAR J
+# Reg no : 212223040025
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -34,17 +35,44 @@ Hardware – PCs, Cyclone II , USB flasher
 **Program:**
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+```
 
+module ex01san(a,b,c,d,w,x,y,z,f1,f2);
+input a,b,c,d,w,x,y,z;
+output f1,f2;
+wire adash,bdash,cdash,ddash,ydash,p,q,r,s,t,u;
+not(adash,a);
+not(bdash,b);
+not(cdash,c);
+not(ddash,d);
+not(ydash,y);
+and(p,bdash,ddash);
+and(q,adash,b,d);
+and(r,a,b,cdash);
+or(f1,p,q,r);
+
+and g1(s,ydash,z);
+and g2(t,x,y);
+and g3(u,w,z);
+or g4(f2,s,t,u);
+endmodule
+
+
+```
 Developed by: RegisterNumber:*/
 
 
 **RTL realization**
 
-**Output:**
+![Screenshot 2024-03-24 204436](https://github.com/baskarsaraswathy/BOOLEAN_FUNCTION_MINIMIZATION/assets/144871005/dee09fd9-6b44-40ef-afbf-d6ab2e627d53)
 
-**RTL**
+**Truth Table**
+![image](https://github.com/baskarsaraswathy/BOOLEAN_FUNCTION_MINIMIZATION/assets/144871005/96ebeb42-3093-489e-b6ab-688e9a11d038)
 
+ 
 **Timing Diagram**
+![Screenshot 2024-03-24 205039](https://github.com/baskarsaraswathy/BOOLEAN_FUNCTION_MINIMIZATION/assets/144871005/ce67084d-5d29-4a77-b17f-48f38be24498)
+
 
 **Result:**
 
