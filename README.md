@@ -1,6 +1,4 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
-# Name : BASKAR J
-# Reg no : 212223040025
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -59,7 +57,7 @@ endmodule
 
 
 ```
-Developed by: RegisterNumber:*/
+Developed by:BASKAR J RegisterNumber:212223040025
 
 
 **RTL realization**
