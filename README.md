@@ -70,7 +70,7 @@ Developed by:BASKAR J RegisterNumber:212223040025
 
  
 **Timing Diagram**
-![Screenshot 2024-03-24 205039](https://github.com/baskarsaraswathy/BOOLEAN_FUNCTION_MINIMIZATION/assets/144871005/ce67084d-5d29-4a77-b17f-48f38be24498)
+![image](https://github.com/baskarsaraswathy/BOOLEAN_FUNCTION_MINIMIZATION/assets/144871005/4e9caee5-196e-49c4-8caf-a081849bc641)
 
 
 **Result:**
