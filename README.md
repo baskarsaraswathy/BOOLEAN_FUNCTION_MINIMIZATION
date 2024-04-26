@@ -1,4 +1,4 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+# EXP 02-BOOLEAN_FUNCTION_MINIMIZATION
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -57,7 +57,11 @@ endmodule
 
 
 ```
-Developed by:BASKAR J RegisterNumber:212223040025
+
+Program for logic gates and verify its truth table in quartus using Verilog programming.
+
+# Developed by : BASKAR J 
+# RegisterNumber : 212223040025
 
 
 **RTL realization**
